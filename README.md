@@ -1,2 +1,2 @@
 # gulp-inject-target
-Inject content into a file with qui=ery selector
+Inject content into a file to query target
